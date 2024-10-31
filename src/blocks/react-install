@@ -1,0 +1,13 @@
+
+Classnames
+
+	npm install classnames --save
+
+Moment
+
+	npm install --save moment react-moment
+
+querystringify
+
+	npm install --save querystringify
+
